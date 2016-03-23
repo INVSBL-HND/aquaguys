@@ -2,7 +2,7 @@
 $("#contactForm").validator().on("submit", function (event) {
 	if (event.isDefaultPrevented()) {
 		contactFormError();
-		contactFormMessage(false, "Please check form for errors and try again.");
+		contactMessageSubmit(false, "Please check form for errors and try again.");
 	} else {
 		event.preventDefault();
 		contactFormSubmit();
@@ -19,12 +19,12 @@ function contactFormSubmit(){
 		type: "POST",
 		url: "contact-email.php",
 		data: "name=" + name + "&email=" + email + "&phone=" + phone + "&message=" + message + "&human=" + human,
-		success: function(text){
+		success : function(text){
 			if (text == "success"){
 				contactFormSuccess();
 			} else {
 				contactFormError();
-				contactFormMessage(false, text);
+				contactFormMessage(false,text);
 			}
 		}
 	});
@@ -32,7 +32,7 @@ function contactFormSubmit(){
 
 function contactFormSuccess(){
 	$("#contactForm")[0].reset();
-	contactFormMessage(true, "Message Submitted!")
+	contactMessageSubmit(true, "Message Submitted!")
 }
 
 function contactFormError(){
@@ -41,7 +41,7 @@ function contactFormError(){
 	});
 }
 
-function contactFormMessage(valid, msg){
+function contactMessageSubmit(valid, msg){
 	if(valid){
 		var contactMessageClasses = "alert text-center tada animated alert-success";
 	} else {
@@ -58,17 +58,18 @@ $(document).ready(function(){
 	  modal.find('.modal-title').text(special)
 	  modal.find('.modal-body input#special').val(special)
 	});
-});
+ });
 // Specials Form Validation and Submission
 $("#specialsForm").validator().on("submit", function (event) {
 	if (event.isDefaultPrevented()) {
 		specialsFormError();
-		specialsFormMessage(false, "Please check form for errors and try again.");
+		specialsMessageSubmit(false, "Please check form for errors and try again.");
 	} else {
 		event.preventDefault();
 		specialsFormSubmit();
 	}
 });
+
 function specialsFormSubmit(){
 	var name = $("#name").val();
 	var email = $("#email").val();
@@ -77,17 +78,17 @@ function specialsFormSubmit(){
 	var message = $("#message").val();
 	var contact = $("input[name='contact']:checked:enabled").val();
 	var human = $("#human").val();
-		
+
 	$.ajax({
 		type: "POST",
 		url: "specials-email.php",
 		data: "name=" + name + "&email=" + email + "&phone=" + phone + "&special=" + special + "&message=" + message + "&contact=" + contact + "&human=" + human,
-		success: function(text){
-		if (text == "success"){
+		success : function(text){
+			if (text == "success"){
 				specialsFormSuccess();
 			} else {
 				specialsFormError();
-				specialsFormMessage(false, text);
+				specialsFormMessage(false,text);
 			}
 		}
 	});
@@ -95,7 +96,7 @@ function specialsFormSubmit(){
 
 function specialsFormSuccess(){
 	$("#specialsForm")[0].reset();
-	specialsFormMessage(true, "Message Submitted!")
+	specialsMessageSubmit(true, "Message Submitted!")
 }
 
 function specialsFormError(){
@@ -104,11 +105,11 @@ function specialsFormError(){
 	});
 }
 
-function specialsFormMessage(valid, msg){
+function specialsMessageSubmit(valid, msg){
 	if(valid){
 		var specialsMessageClasses = "alert text-center tada animated alert-success";
 	} else {
 		var specialsMessageClasses = "alert text-center alert-danger";
 	}
-	$("#specialsSubmitMsg").removeClass().addClass(specialsMessageClasses).text(msg);
+	$("#msgSubmit").removeClass().addClass(specialsMessageClasses).text(msg);
 }
