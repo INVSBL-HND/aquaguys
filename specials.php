@@ -72,14 +72,14 @@
                       	<label for="human" class="control-label">Answer this question: 2 + 3 = ?</label>
                         <input type="text" class="form-control" id="human" name="human" placeholder="Your Answer" required data-error="Please solve the equation.">
                         <div class="help-block with-errors"></div>
-					</div>
+					  </div>
                     <div class="form-group">
-                    	<div id="msgSubmit" class="alert text-center hidden"></div>
+                    	<div id="specialsSubmitMsg" class="alert text-center hidden"></div>
 					</div>
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    <button id="form-submit" type="submit" name="submit" class="btn btn-success">Submit</button>
+                    <button id="specialsSubmitBtn" type="submit" name="submit" class="btn btn-success">Submit</button>
                   </div>
               </form>
         </div>
