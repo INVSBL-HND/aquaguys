@@ -28,7 +28,7 @@
     <div class="help-block with-errors"></div>
   </div>
   <div class="form-group">
-  	<div id="contactSubmitMsg" class="h6 text-center hidden"></div>
+  	<div id="contactFormAlert" class="alert text-center hidden"></div>
   </div>
   <button id="contactSubmitBtn" type="submit" name="submit" class="btn btn-success">Submit</button>
 </form>

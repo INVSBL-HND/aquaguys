@@ -74,7 +74,7 @@
                         <div class="help-block with-errors"></div>
 					</div>
                     <div class="form-group">
-                    	<div id="msgSubmit" class="alert text-center hidden"></div>
+                    	<div id="specialsFormAlert" class="alert text-center hidden"></div>
 					</div>
                   </div>
                   <div class="modal-footer">
