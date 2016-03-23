@@ -36,8 +36,8 @@ function contactFormSuccess(){
 }
 
 function contactFormError(){
-	$("#contactForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-		$(this).removeClass();
+	$("#contactPanel").addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+		$(this).removeClass('shake animated');
 	});
 }
 
@@ -100,8 +100,8 @@ function specialsFormSuccess(){
 }
 
 function specialsFormError(){
-	$("#specialsForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-		$(this).removeClass();
+	$("#specialsModal").addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+		$(this).removeClass('shake animated');
 	});
 }
 
