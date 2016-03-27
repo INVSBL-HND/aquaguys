@@ -9,60 +9,52 @@
   	<div class="col-sm-6">
   		<div class="row">
 			<h3 class="text-center">Refer Us</h3>
-			<div class="col-xs-12 special-container special-green">
-				<figure class="special special-green">
-						<img src="img/special-placeholder.jpg" class="img-responsive clearfix" alt="Free Startup or Winterization of Lawn Sprinkler Service"/>
-					<figcaption>
-						<div>
-							<h2>Free Startup or Winterization of Lawn Sprinkler Service</h2>
-							<p>Tell your friends and neighbors about Aqua Guys services and receive a free Startup or Winterization service if your referral completes 3 full months of service with us.<br><small><i>Not valid with any other offer.</i></small></p>
-						</div>
-						<a data-toggle="modal" data-target="#specialsModal" data-special="Free Startup or Winterization of Lawn Sprinkler Service">View more</a>
-					</figcaption>
-				</figure>
-			</div>
-			<div class="col-xs-12 special-container">
-				<figure class="special special-blue">
-						<img src="img/special-placeholder.jpg" class="img-responsive clearfix" alt="Free Startup or Winterization of Lawn Sprinkler Service"/>
-					<figcaption>
-						<div>
-							<h2>Free Month of Weekly Pool Service</h2>
-							<p>Tell your friends and neighbors about Aqua Guys services and receive a free mont of our weekly pool services if your referral completes 3 full months of service with us.<br><small><i>Cannot be used for openings and closings. Not valid with any other offer. Pool services available in Fairfield County, CT and Westchester, NY.</i></small></p>
-						</div>
-						<a data-toggle="modal" data-target="#specialsModal" data-special="Free Startup or Winterization of Lawn Sprinkler Service">View more</a>
-					</figcaption>
-				</figure>
+			<div class="col-xs-12">
+            	<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-free-service-lawn.jpg" class="img-responsive clearfix" alt="Free Startup or Winterization of Lawn Sprinkler Service"/>
+					<caption>
+						<h3 class="text-center">Free Startup or Winterization of Lawn Sprinkler Service</h3>
+						<p class="text-center">Tell your friends and neighbors about Aqua Guys services and receive a free Startup or Winterization service if your referral completes 3 full months of service with us.<br><small><i>Not valid with any other offer.</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="Free Startup or Winterization of Lawn Sprinkler Service">Get This Offer</a></p>
+					</caption>
+            	</div>
+            </div>
+			<div class="col-xs-12">
+				<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-free-service-pool.jpg" class="img-responsive clearfix" alt="Free Month of Weekly Pool Service"/>
+					<caption>
+						<h3 class="text-center">Free Month of Weekly Pool Service</h3>
+						<p class="text-center">Tell your friends and neighbors about Aqua Guys services and receive a free month of our weekly pool services if your referral completes 3 full months.<br><small><i>Cannot be used for openings and closings. Not valid with any other offer. Pool services available in Fairfield County, CT and Westchester, NY</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="Free Month of Weekly Pool Service">Get This Offer</a></p>
+					</caption>
+                </div>
 			</div>
   		</div>
     </div>
     <div class="col-sm-6">
     	<div class="row">
-    		<h3 class="text-center">New Customers</h3>
-        	<div class="col-xs-12 special-container special-green">
-				<figure class="special special-green">
-						<img src="img/special-placeholder.jpg" class="img-responsive clearfix" alt="Free Startup or Winterization of Lawn Sprinkler Service"/>
-					<figcaption>
-						<div>
-							<h2>50% Off First Lawn Sprinkler Service Repairs</h2>
-							<p>For NEW Aqua Guys customers only with a prepaid annual contract of up to $250.<br><small><i>Not valid with any other offer.</i></small></p>
-						</div>
-						<a data-toggle="modal" data-target="#specialsModal" data-special="Free Startup or Winterization of Lawn Sprinkler Service">View more</a>
-					</figcaption>
-				</figure>
+			<h3 class="text-center">New Customers</h3>
+			<div class="col-xs-12">
+            	<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-50-off-lawn.jpg" class="img-responsive clearfix" alt="50% Off First Lawn Sprinkler Service Repairs"/>
+					<caption>
+						<h3 class="text-center">50% Off First Lawn Sprinkler Service Repairs</h3>
+						<p class="text-center">For NEW Aqua Guys customers only with prepaid annual contract up to $250.<br><small><i>Not valid with any other offer.</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="50% Off First Lawn Sprinkler Service Repairs">Get This Offer</a></p>
+					</caption>
+            	</div>
+            </div>
+			<div class="col-xs-12">
+				<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-50-off-pool.jpg" class="img-responsive clearfix" alt="50% Off First Month of Pool Service"/>
+					<caption>
+						<h3 class="text-center">50% Off First Month of Pool Service</h3>
+						<p class="text-center">For NEW Aqua Guys customers only, with prepaid annual contract – Not for openings and closings.<br><small><i>Not valid with any other offer.</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="50% Off First Month of Pool Service">Get This Offer</a></p>
+					</caption>
+                </div>
 			</div>
-			<div class="col-xs-12 special-container">
-				<figure class="special special-blue">
-						<img src="img/special-placeholder.jpg" class="img-responsive clearfix" alt="Free Startup or Winterization of Lawn Sprinkler Service"/>
-					<figcaption>
-						<div>
-							<h2>50% Off First Month of Pool Service</h2>
-							<p>For NEW Aqua Guys customers only with a prepaid annual contract - Not for summerization or winterization<br><small><i>Not valid with any other offer.</i></small></p>
-						</div>
-						<a data-toggle="modal" data-target="#specialsModal" data-special="Free Startup or Winterization of Lawn Sprinkler Service">View more</a>
-					</figcaption>
-				</figure>
-			</div>
-	    </div>
+  		</div>
     </div>
     <div class="modal fade" id="specialsModal" tabindex="-1" role="dialog" aria-labelledby="specialsModalLabel">
       <div class="modal-dialog" role="document">

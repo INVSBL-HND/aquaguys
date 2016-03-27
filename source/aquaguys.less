@@ -84,6 +84,7 @@ dl.faq dd {
 	margin-bottom: 14px;
 }
 /* Specials */
+/*
 .special-container {
 	.special-blue {
 		background: @light-blue;
@@ -168,6 +169,14 @@ dl.faq dd {
 		}
 	}
 }
+*/
+.special-thumbnail {
+	border:none !important;
+	min-height:none;
+	.btn {
+		text-transform:uppercase;
+	}
+}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm-min) {
@@ -201,6 +210,9 @@ dl.faq dd {
 	.img-overlap {
 		max-height:320px;
 	}
+	.special-thumbnail {
+		min-height:400px;
+	}
 }
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: @screen-md-min) {
@@ -229,10 +241,13 @@ dl.faq dd {
 		padding-right:20px;
 	}
 	.main-img {
-		max-height:460px;
+		max-height:440px;
 	}
 	.img-overlap {
 		max-height:380px;
+	}
+	.special-thumbnail {
+		min-height:420px;
 	}
 }
 /* Large devices (large desktops, 1200px and up) */
@@ -256,5 +271,8 @@ dl.faq dd {
 	}
 	.img-overlap {
 		max-height:460px;
+	}
+	.special-thumbnail {
+		min-height:420px;
 	}
 }

@@ -74,7 +74,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-contact-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-contact-main.jpg": {
 		"fileType": 16384,
@@ -85,7 +85,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-contact-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-home-01.jpg": {
 		"fileType": 16384,
@@ -96,7 +96,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-home-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-home-02.jpg": {
 		"fileType": 16384,
@@ -107,7 +107,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-home-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-home-03.jpg": {
 		"fileType": 16384,
@@ -118,7 +118,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-home-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-home-lawn.jpg": {
 		"fileType": 16384,
@@ -129,7 +129,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-home-lawn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-home-pool.jpg": {
 		"fileType": 16384,
@@ -140,7 +140,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-home-pool.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-home-specials.jpg": {
 		"fileType": 16384,
@@ -151,7 +151,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-home-specials.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-lighting_faq-01.jpg": {
 		"fileType": 16384,
@@ -162,7 +162,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-lighting_faq-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-lighting_faq-02.jpg": {
 		"fileType": 16384,
@@ -173,7 +173,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-lighting_faq-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-lighting_faq-03.jpg": {
 		"fileType": 16384,
@@ -184,7 +184,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-lighting_faq-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-lighting_faq-main.jpg": {
 		"fileType": 16384,
@@ -195,7 +195,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-lighting_faq-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-logo-md.png": {
 		"fileType": 32768,
@@ -206,7 +206,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-logo-md.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-01.jpg": {
 		"fileType": 16384,
@@ -217,7 +217,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-02.jpg": {
 		"fileType": 16384,
@@ -228,7 +228,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-03.jpg": {
 		"fileType": 16384,
@@ -239,7 +239,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-04.jpg": {
 		"fileType": 16384,
@@ -250,7 +250,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-main.jpg": {
 		"fileType": 16384,
@@ -261,7 +261,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-van.jpg": {
 		"fileType": 16384,
@@ -272,7 +272,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-van.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-partners-van.png": {
 		"fileType": 32768,
@@ -283,7 +283,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-partners-van.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pool_faq-01.jpg": {
 		"fileType": 16384,
@@ -294,7 +294,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pool_faq-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pool_faq-02.jpg": {
 		"fileType": 16384,
@@ -305,7 +305,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pool_faq-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pool_faq-03.jpg": {
 		"fileType": 16384,
@@ -316,7 +316,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pool_faq-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pool_faq-main.jpg": {
 		"fileType": 16384,
@@ -327,7 +327,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pool_faq-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pools-01.jpg": {
 		"fileType": 16384,
@@ -338,7 +338,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pools-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pools-02.jpg": {
 		"fileType": 16384,
@@ -349,7 +349,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pools-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pools-03.jpg": {
 		"fileType": 16384,
@@ -360,7 +360,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pools-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pools-main.jpg": {
 		"fileType": 16384,
@@ -371,7 +371,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pools-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-pools-professional_organizations.jpg": {
 		"fileType": 16384,
@@ -382,35 +382,13 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-pools-professional_organizations.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/aquaguys-specials-20-off-lawn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 49668,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-20-off-lawn.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-20-off-lawn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/aquaguys-specials-20-off-pool.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 60940,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-20-off-pool.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-20-off-pool.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-specials-50-off-lawn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 57586,
+		"initialSize": 37081,
 		"inputAbbreviatedPath": "\/img\/aquaguys-specials-50-off-lawn.jpg",
 		"outputAbbreviatedPath": "\/img\/aquaguys-specials-50-off-lawn.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -421,64 +399,31 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 70401,
+		"initialSize": 48043,
 		"inputAbbreviatedPath": "\/img\/aquaguys-specials-50-off-pool.jpg",
 		"outputAbbreviatedPath": "\/img\/aquaguys-specials-50-off-pool.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/aquaguys-specials-free-lawn-service.jpg": {
+	"\/img\/aquaguys-specials-free-service-lawn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 75541,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-lawn-service.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-lawn-service.jpg",
+		"initialSize": 41771,
+		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-service-lawn.jpg",
+		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-service-lawn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/aquaguys-specials-free-month-lawn.jpg": {
+	"\/img\/aquaguys-specials-free-service-pool.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 69661,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-month-lawn.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-month-lawn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/aquaguys-specials-free-month-pool.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 74008,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-month-pool.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-month-pool.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/aquaguys-specials-free-poo-service.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 69897,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-poo-service.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-poo-service.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/aquaguys-specials-free-pool-service.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 77802,
-		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-pool-service.jpg",
-		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-pool-service.jpg",
+		"initialSize": 48253,
+		"inputAbbreviatedPath": "\/img\/aquaguys-specials-free-service-pool.jpg",
+		"outputAbbreviatedPath": "\/img\/aquaguys-specials-free-service-pool.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -492,7 +437,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinkler_faq-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinkler_faq-02.jpg": {
 		"fileType": 16384,
@@ -503,7 +448,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinkler_faq-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinkler_faq-03.jpg": {
 		"fileType": 16384,
@@ -514,7 +459,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinkler_faq-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinkler_faq-main.jpg": {
 		"fileType": 16384,
@@ -525,7 +470,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinkler_faq-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinklers-01.jpg": {
 		"fileType": 16384,
@@ -536,7 +481,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinklers-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinklers-02.jpg": {
 		"fileType": 16384,
@@ -547,7 +492,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinklers-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinklers-03.jpg": {
 		"fileType": 16384,
@@ -558,7 +503,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinklers-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinklers-main.jpg": {
 		"fileType": 16384,
@@ -569,7 +514,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinklers-main.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-sprinklers-professional_organizations.jpg": {
 		"fileType": 16384,
@@ -580,7 +525,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-sprinklers-professional_organizations.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/aquaguys-water_wise_guys.png": {
 		"fileType": 32768,
@@ -591,18 +536,7 @@
 		"outputAbbreviatedPath": "\/img\/aquaguys-water_wise_guys.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/special-placeholder.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 207196,
-		"inputAbbreviatedPath": "\/img\/special-placeholder.jpg",
-		"outputAbbreviatedPath": "\/img\/special-placeholder.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/watersense-logo.jpg": {
 		"fileType": 16384,
@@ -613,7 +547,7 @@
 		"outputAbbreviatedPath": "\/img\/watersense-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.php": {
 		"fileType": 8192,
