@@ -1,0 +1,278 @@
+/* Aqua Guys */
+@import "bower_components/bootstrap/less/bootstrap.less";
+/* Extra small devices (phones, less than 768px) */
+.clickable {
+	cursor:pointer;
+}
+#aqua-nav {
+	margin-bottom:0;
+}
+.aqua-header {
+	display:none;
+	visibility:hidden;
+	height: 0;
+	img {
+		height:65px;
+		width:auto;
+		margin:36px 0 0 0;
+	}
+}
+.nav-logo {
+	display:none;
+	visibility:hidden;
+	overflow:hidden;
+	height:inherit;
+	max-height:30px;
+	img {
+		position:relative;
+		vertical-align:top;
+		z-index:999;
+	}
+}
+.carousel-img {
+	width:100%;
+	max-height:420px;
+	overflow:hidden;
+	img {
+		width:100%;
+		height:auto;
+		overflow:hidden;	
+	}
+}
+.main-img {
+	width:100%;
+	max-height:420px;
+	margin-bottom:16px;
+	overflow:hidden;
+	img {
+		width:100%;
+		height:auto;
+		overflow:hidden;	
+	}
+}
+.main-content {
+	margin-top:32px;
+}
+.first-heading {
+	margin-top:0 !important;
+}
+ul.big-list {
+	li {
+		font-size:120%;
+	}
+}
+.small-img {
+	margin-bottom:20px;
+}
+.img-overlap {
+	overflow:visible;
+	max-height:inherit;
+	img {
+		width:100%;
+		max-width:100%;
+		height:auto;
+		position:relative;
+		vertical-align:top;
+		top:0;
+		z-index:999;
+	}
+}
+.img-aside-left {
+	margin-right:1em;
+}
+dl.faq dd {
+	margin-bottom: 14px;
+}
+/* Specials */
+/*
+.special-container {
+	.special-blue {
+		background: @light-blue;
+	}
+	.special-green {
+		background:#29D458;
+	}
+	figure.special {
+		position: relative;
+		float: left;
+		overflow: hidden;
+		min-width: 320px;
+		max-height: 360px;
+		text-align: center;
+		cursor: pointer;
+		margin-bottom:1em;
+		img {
+			position: relative;
+			display: block;
+			min-height: 100%;
+			max-width: 100%;
+			opacity: 1;
+			transition: opacity 0.35s, transform 0.35s;
+		}
+		figcaption {
+			padding: 2em;
+			color: #fff;
+			font-size: 1.25em;
+			backface-visibility: hidden;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			text-align: left;
+			div {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				padding: 2em;
+				width: 100%;
+				height: 100%;
+			}
+			>a {
+				z-index: 1000;
+				text-indent: 200%;
+				white-space: nowrap;
+				font-size: 0;
+				opacity: 0;
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+			}
+		}
+		h2, p {
+			padding-right:2em;
+			text-shadow:2px 2px 4px #000000;
+			transform: translate3d(0,120px,0);
+		}
+		h2 {
+			transition: transform 0.35s;
+		}
+		p {
+			color: #fff;
+			opacity: 0;
+			transition: opacity 0.2s, transform 0.35s;
+		}
+		&:hover {
+			img {
+				opacity:0.2;
+			}
+			h2, p {
+				transform: translate3d(0,0,0);
+			}
+			p {
+				opacity: 1;
+				transition-delay: 0.05s;
+				transition-duration: 0.35s;
+			}
+		}
+	}
+}
+*/
+.special-thumbnail {
+	border:none !important;
+	min-height:none;
+	.btn {
+		text-transform:uppercase;
+	}
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+	.aqua-header {
+		display:block;
+		visibility:visible;
+		height: 96px;
+		img {
+			height:48px;
+			width:auto;
+			margin:32px 0 0 24px;
+		}
+	}
+	.nav-logo {
+		display:block;
+		visibility:visible;
+		overflow:visible;
+		img {
+			height:156px;
+			top:-96px;
+		}
+	}
+	.navbar-default .navbar-nav > li > a {
+		font-size:12px;
+		padding-left:16px;
+		padding-right:16px;
+	}
+	.main-img {
+		max-height:440px;
+	}
+	.img-overlap {
+		max-height:320px;
+	}
+	.special-thumbnail {
+		min-height:400px;
+	}
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+	.aqua-header {
+		display:block;
+		visibility:visible;
+		height: 128px;
+		img {
+			height:65px;
+			width:auto;
+			margin:32px 0 0 0;
+		}
+	}
+	.nav-logo {
+		display:block;
+		visibility:visible;
+		overflow:visible;
+		img {
+			height:181px;
+			top:-128px;
+		}
+	}
+	.navbar-default .navbar-nav > li > a {
+		font-size:14px;
+		padding-left:20px;
+		padding-right:20px;
+	}
+	.main-img {
+		max-height:440px;
+	}
+	.img-overlap {
+		max-height:380px;
+	}
+	.special-thumbnail {
+		min-height:420px;
+	}
+}
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+	.nav-logo {
+	display:block;
+	visibility:visible;
+	overflow:visible;
+		img {
+			height:181px;
+			top:-128px;
+		}
+	}
+	.navbar-default .navbar-nav > li > a {
+		font-size:14px;
+		padding-left:24px;
+		padding-right:24px;
+	}
+	.main-img {
+		max-height:480px;
+	}
+	.img-overlap {
+		max-height:460px;
+	}
+	.special-thumbnail {
+		min-height:420px;
+	}
+}

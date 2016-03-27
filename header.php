@@ -12,7 +12,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <link href="css/aquaguys.css" rel="stylesheet" type="text/css">
-<link href="css/animate.min.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <header class="aqua-header hidden-xs">

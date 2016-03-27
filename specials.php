@@ -7,22 +7,54 @@
    </div>
    <div class="row">
   	<div class="col-sm-6">
-    	<h3 class="text-center">Refer Us</h3>
-        <div class="small-img" data-toggle="modal" data-target="#specialsModal" data-special="FREE STARTUP OR WINTERIZATION OF LAWN SPRINKLER SERVICES">
-        	<img src="img/aquaguys-specials-free-lawn-service.jpg" class="clickable img-responsive clearfix" alt="FREE STARTUP OR WINTERIZATION OF LAWN SPRINKLER SERVICES"/>
-        </div>
-		<div class="small-img" data-toggle="modal" data-target="#specialsModal" data-special="FREE MONTH OF WEEKLY POOL SERVICE">
-        	<img src="img/aquaguys-specials-free-pool-service.jpg" class="clickable img-responsive clearfix" alt="FREE MONTH OF WEEKLY POOL SERVICE"/>
-        </div>
+  		<div class="row">
+			<h3 class="text-center">Refer Us</h3>
+			<div class="col-xs-12">
+            	<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-free-service-lawn.jpg" class="img-responsive clearfix" alt="Free Startup or Winterization of Lawn Sprinkler Service"/>
+					<caption>
+						<h3 class="text-center">Free Startup or Winterization of Lawn Sprinkler Service</h3>
+						<p class="text-center">Tell your friends and neighbors about Aqua Guys services and receive a free Startup or Winterization service if your referral completes 3 full months of service with us.<br><small><i>Not valid with any other offer.</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="Free Startup or Winterization of Lawn Sprinkler Service">Get This Offer</a></p>
+					</caption>
+            	</div>
+            </div>
+			<div class="col-xs-12">
+				<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-free-service-pool.jpg" class="img-responsive clearfix" alt="Free Month of Weekly Pool Service"/>
+					<caption>
+						<h3 class="text-center">Free Month of Weekly Pool Service</h3>
+						<p class="text-center">Tell your friends and neighbors about Aqua Guys services and receive a free month of our weekly pool services if your referral completes 3 full months.<br><small><i>Cannot be used for openings and closings. Not valid with any other offer. Pool services available in Fairfield County, CT and Westchester, NY</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="Free Month of Weekly Pool Service">Get This Offer</a></p>
+					</caption>
+                </div>
+			</div>
+  		</div>
     </div>
     <div class="col-sm-6">
-    	<h3 class="text-center">New Customers</h3>
-        <div class="small-img" data-toggle="modal" data-target="#specialsModal" data-special="50% OFF FIRST LAWN SPRINKLER SERVICE REPAIRS">
-        	<img src="img/aquaguys-specials-50-off-lawn.jpg" class="clickable img-responsive clearfix" alt="50% OFF FIRST LAWN SPRINKLER SERVICE REPAIRS"/>
-    	</div>
-    	<div class="small-img" data-toggle="modal" data-target="#specialsModal" data-special="50% OFF FIRST MONTH OF POOL SERVICE">
-       		<img src="img/aquaguys-specials-50-off-pool.jpg" class="clickable img-responsive clearfix" alt="50% OFF FIRST MONTH OF POOL SERVICE"/>
-	    </div>
+    	<div class="row">
+			<h3 class="text-center">New Customers</h3>
+			<div class="col-xs-12">
+            	<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-50-off-lawn.jpg" class="img-responsive clearfix" alt="50% Off First Lawn Sprinkler Service Repairs"/>
+					<caption>
+						<h3 class="text-center">50% Off First Lawn Sprinkler Service Repairs</h3>
+						<p class="text-center">For NEW Aqua Guys customers only with prepaid annual contract up to $250.<br><small><i>Not valid with any other offer.</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="50% Off First Lawn Sprinkler Service Repairs">Get This Offer</a></p>
+					</caption>
+            	</div>
+            </div>
+			<div class="col-xs-12">
+				<div class="thumbnail special-thumbnail">
+					<img src="img/aquaguys-specials-50-off-pool.jpg" class="img-responsive clearfix" alt="50% Off First Month of Pool Service"/>
+					<caption>
+						<h3 class="text-center">50% Off First Month of Pool Service</h3>
+						<p class="text-center">For NEW Aqua Guys customers only, with prepaid annual contract – Not for openings and closings.<br><small><i>Not valid with any other offer.</i></small></p>
+						<p class="text-center"><a class="btn btn-success" data-toggle="modal" data-target="#specialsModal" data-special="50% Off First Month of Pool Service">Get This Offer</a></p>
+					</caption>
+                </div>
+			</div>
+  		</div>
     </div>
     <div class="modal fade" id="specialsModal" tabindex="-1" role="dialog" aria-labelledby="specialsModalLabel">
       <div class="modal-dialog" role="document">
@@ -74,7 +106,7 @@
                         <div class="help-block with-errors"></div>
 					</div>
                     <div class="form-group">
-                    	<div id="msgSubmit" class="alert text-center hidden"></div>
+                    	<div id="specialsFormAlert" class="alert text-center hidden"></div>
 					</div>
                   </div>
                   <div class="modal-footer">

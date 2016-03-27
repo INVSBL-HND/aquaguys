@@ -1,5 +1,5 @@
 
-<div class="panel panel-default">
+<div class="panel panel-default" id="contactPanel">
 <div class="panel-body">
 <form role="form" id="contactForm" data-toggle="validator" class="shake">
 <h4>FOR MORE INFORMATION, CONFIRM SERVICE OR A FREE CONSULTATION<br/><small>* indicates a required field</small></h4>
@@ -28,7 +28,7 @@
     <div class="help-block with-errors"></div>
   </div>
   <div class="form-group">
-  	<div id="contactSubmitMsg" class="h6 text-center hidden"></div>
+  	<div id="contactFormAlert" class="alert text-center hidden"></div>
   </div>
   <button id="contactSubmitBtn" type="submit" name="submit" class="btn btn-success">Submit</button>
 </form>
