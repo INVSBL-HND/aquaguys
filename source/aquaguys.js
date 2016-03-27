@@ -2,7 +2,7 @@
 $("#contactForm").validator().on("submit", function (event) {
 	if (event.isDefaultPrevented()) {
 		contactFormError();
-		contactFormSubmit(false, "Please check form for errors and try again.");
+		contactFormAlert(false, "Please check form for errors and try again.");
 	} else {
 		event.preventDefault();
 		contactFormSubmit();
@@ -24,7 +24,7 @@ function contactFormSubmit(){
 				contactFormSuccess();
 			} else {
 				contactFormError();
-				contactFormMessage(false,text);
+				contactFormAlert(false,text);
 			}
 		}
 	});
@@ -32,24 +32,23 @@ function contactFormSubmit(){
 
 function contactFormSuccess(){
 	$("#contactForm")[0].reset();
-	contactMessageSubmit(true, "Message Submitted!")
+	contactFormAlert(true, "Message Submitted!")
 }
 
 function contactFormError(){
-	$("#contactForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-		$(this).removeClass();
+	$("#contactPanel").addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+		$(this).removeClass('shake animated');
 	});
 }
 
-function contactFormSubmit(valid, msg){
+function contactFormAlert(valid, msg){
 	if(valid){
 		var contactMessageClasses = "alert text-center tada animated alert-success";
 	} else {
 		var contactMessageClasses = "alert text-center alert-danger";
 	}
-	$("#contactSubmitMsg").removeClass().addClass(contactMessageClasses).text(msg);
+	$("#contactFormAlert").removeClass().addClass(contactMessageClasses).text(msg);
 }
-
 // Specials Form Modal
 $(document).ready(function(){
 	$('#specialsModal').on('show.bs.modal', function (event) {
@@ -64,7 +63,7 @@ $(document).ready(function(){
 $("#specialsForm").validator().on("submit", function (event) {
 	if (event.isDefaultPrevented()) {
 		specialsFormError();
-		specialsMessageSubmit(false, "Please check form for errors and try again.");
+		specialsFormAlert(false, "Please check form for errors and try again.");
 	} else {
 		event.preventDefault();
 		specialsFormSubmit();
@@ -89,7 +88,7 @@ function specialsFormSubmit(){
 				specialsFormSuccess();
 			} else {
 				specialsFormError();
-				specialsFormMessage(false,text);
+				specialsFormAlert(false,text);
 			}
 		}
 	});
@@ -97,20 +96,20 @@ function specialsFormSubmit(){
 
 function specialsFormSuccess(){
 	$("#specialsForm")[0].reset();
-	specialsMessageSubmit(true, "Message Submitted!")
+	specialsFormAlert(true, "Message Submitted!")
 }
 
 function specialsFormError(){
-	$("#specialsForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-		$(this).removeClass();
+	$("#specialsModal").addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+		$(this).removeClass('shake animated');
 	});
 }
 
-function specialsMessageSubmit(valid, msg){
+function specialsFormAlert(valid, msg){
 	if(valid){
 		var specialsMessageClasses = "alert text-center tada animated alert-success";
 	} else {
 		var specialsMessageClasses = "alert text-center alert-danger";
 	}
-	$("#msgSubmit").removeClass().addClass(specialsMessageClasses).text(msg);
+	$("#specialsFormAlert").removeClass().addClass(specialsMessageClasses).text(msg);
 }
